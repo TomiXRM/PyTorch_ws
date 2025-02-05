@@ -1,0 +1,9 @@
+# path: /data
+train: data/train/images
+val: data/validation/images
+nc: 4
+names:
+- Crimping plier
+- Nipper
+- Wire stripper
+- plier
